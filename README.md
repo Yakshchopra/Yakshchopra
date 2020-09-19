@@ -1,5 +1,6 @@
 ## Hi there 👋
-I am yaksh a budding web and IoT developer.
+Reach me at https://yakshchopra.github.io/Yaksh/
+
 
 
 <!--
