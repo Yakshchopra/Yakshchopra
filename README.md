@@ -1,5 +1,7 @@
 ## Hi there 👋
-Reach me at https://yakshchopra.github.io/Yaksh/
+![](Yaksh%20Chopra.png)
+
+#I am Yaksh Chopra a web and IoT developer. Reach me at https://yakshchopra.github.io/Yaksh/
 
 
 
