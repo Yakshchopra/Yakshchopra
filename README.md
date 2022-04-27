@@ -22,6 +22,6 @@
 
 ![Linkedin Badge](https://img.shields.io/badge/-YakshChopra-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yaksh-chopra-125bb7168/)
 ![Gmail Badge](https://img.shields.io/badge/-yakshchopra-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yakshchopra@gmail.com)
-![Website Badge](https://img.shields.io/badge/-yakshchopra.tech-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://yakshchopra.tech)
+![Website Badge](https://img.shields.io/badge/-yakshchopra.tech-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://yakshchopra.vercal.app)
 ![Twitter Badge](https://img.shields.io/badge/-@YakshChopra-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/YakshChopra)
 ![Dribbble Badge](https://img.shields.io/badge/-@Yaksh2000-1ca0f1?style=flat&labelColor=1ca0f1&logo=dribbble&logoColor=white&link=https://dribbble.com/Yaksh2000)
