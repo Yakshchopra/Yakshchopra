@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-###### I am Yaksh Chopra, a 3rd-year undergrad from SRM Institute of Science and Technology, Chennai, India. I'm a MERN stack developer. I have a good hand in React and Angular. I can also design some awesome web interfaces for your products.
+###### I am Yaksh Chopra, a final-year undergrad from SRM Institute of Science and Technology, Chennai, India. I'm a MERN stack developer. I have a good hand in React and Angular. I can also design some awesome web interfaces for your products.
 ![Yaksh's github stats](https://github-readme-stats.vercel.app/api?username=Yakshchopra&count_private=true&show_icons=true&theme=dark)
 
 ### Languages and Tools:
